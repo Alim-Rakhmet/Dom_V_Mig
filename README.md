@@ -6,3 +6,9 @@
 
 <h1 color="red" align="center">!.! Установка !.!</h1>
 
+1)Создайте PythonProject в Pycharm.
+
+2)Переместите папку(Dom_V_Mig-main) с zip в папку проекта
+
+3)
+

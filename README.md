@@ -31,4 +31,4 @@ python manage.py runserver
 
 python manage.py createsuperuser 
 
-После чего следуйте инструкциям, и в конце готов ╰(*°▽°*)╯
+После чего следуйте инструкциям, и в конце готов ╰(*°▽°*)╯бб

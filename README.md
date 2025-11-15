@@ -1,4 +1,4 @@
-<H1 align="center">~~ Наш совместный проект "Дом В Миг" ~~</H1>
+<H1 align="center">~~"Дом В Миг"~~</H1>
 
 <img src="https://img.freepik.com/premium-photo/monkey-suit-sits-desk-front-laptop_868783-212.jpg" alt="404">
 
